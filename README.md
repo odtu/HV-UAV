@@ -9,9 +9,7 @@ The project is being developed under [STAR Projects](http://star.eee.metu.edu.tr
 
 **Project Members:**
 
-*  dfd
-*  fdf
-*  fdgd
-*  hgd
-*  
+*  Doga Ceylan
+*  Mehmet Ugur Gudelek
+
 
