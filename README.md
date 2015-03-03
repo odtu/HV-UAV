@@ -12,3 +12,5 @@ The project is being developed under [STAR Projects](http://star.eee.metu.edu.tr
 *  Doğa Ceylan
 *  Uğur Güdelek
   
+
+![Quadracopter Image](https://raw.githubusercontent.com/odtu/HV-UAV/master/Images/quadracopter.JPG)
