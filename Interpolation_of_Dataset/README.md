@@ -1,1 +1,2 @@
-![test](https://raw.githubusercontent.com/odtu/HV-UAV/master/Interpolation_of_Dataset/Spline_Interpolation_of_Data.PNG)
+![Spline_Interpolation_of_Data](https://raw.githubusercontent.com/odtu/HV-UAV/master/Interpolation_of_Dataset/Spline_Interpolation_of_Data.PNG)
+![Linear_Interpolation_of_Data](https://raw.githubusercontent.com/odtu/HV-UAV/master/Interpolation_of_Dataset/Linear_Interpolation_of_Data.PNG)
